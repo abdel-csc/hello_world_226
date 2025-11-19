@@ -1,0 +1,31 @@
+Borough,Year,Overdose_Deaths,Rate_per_100k
+Bronx,2018,391,34.1
+Bronx,2019,382,33.3
+Bronx,2020,555,48.1
+Bronx,2021,801,70.5
+Bronx,2022,855,78.5
+Bronx,2023,858,78.0
+Brooklyn,2018,349,16.3
+Brooklyn,2019,361,16.9
+Brooklyn,2020,424,19.8
+Brooklyn,2021,585,27.4
+Brooklyn,2022,694,32.9
+Brooklyn,2023,692,32.9
+Manhattan,2018,273,18.8
+Manhattan,2019,282,19.5
+Manhattan,2020,364,25.0
+Manhattan,2021,455,33.3
+Manhattan,2022,471,34.6
+Manhattan,2023,501,36.0
+Queens,2018,331,17.3
+Queens,2019,367,19.2
+Queens,2020,365,19.1
+Queens,2021,389,20.5
+Queens,2022,472,25.0
+Queens,2023,463,24.5
+Staten Island,2018,108,29.8
+Staten Island,2019,105,29.0
+Staten Island,2020,134,36.1
+Staten Island,2021,146,37.8
+Staten Island,2022,152,38.2
+Staten Island,2023,157,40.1

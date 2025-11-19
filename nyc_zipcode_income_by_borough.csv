@@ -1,0 +1,170 @@
+ZIP_Code,Borough,Neighborhood,Median_Household_Income,Poverty_Rate,Population,Income_Category
+10001,Manhattan,Chelsea/Flatiron,123393,12.8,24239,High
+10002,Manhattan,Lower East Side,46525,28.4,84143,Low
+10003,Manhattan,East Village/Gramercy,153750,9.2,58902,Very High
+10004,Manhattan,Financial District,189750,5.1,4250,Very High
+10005,Manhattan,Financial District,198420,3.2,3580,Very High
+10006,Manhattan,Financial District,214580,2.8,2850,Very High
+10007,Manhattan,TriBeCa/Civic Center,512350,4.5,7802,Very High
+10009,Manhattan,East Village/Alphabet City,68420,22.5,61387,Medium
+10010,Manhattan,Gramercy/Stuyvesant,156127,8.9,31875,Very High
+10011,Manhattan,Chelsea/West Village,146571,9.5,52647,Very High
+10012,Manhattan,SoHo/NoLita,130938,11.2,24090,High
+10013,Manhattan,TriBeCa/Chinatown,159474,14.8,52374,High
+10014,Manhattan,West Village,167254,7.3,32150,Very High
+10016,Manhattan,Murray Hill/Kips Bay,153065,11.4,61289,High
+10017,Manhattan,Midtown East,132518,10.8,16842,High
+10018,Manhattan,Midtown West,133042,13.5,9850,High
+10019,Manhattan,Hell's Kitchen,121835,14.2,42587,High
+10021,Manhattan,Upper East Side,156712,8.1,62453,Very High
+10022,Manhattan,Midtown East,171038,7.4,35892,Very High
+10023,Manhattan,Upper West Side,157866,9.4,62847,Very High
+10024,Manhattan,Upper West Side,182614,7.8,62598,Very High
+10025,Manhattan,Upper West Side/Morningside,89420,12.8,94580,High
+10026,Manhattan,Central Harlem,48920,27.5,45280,Low
+10027,Manhattan,Morningside Heights/Hamilton,52340,29.8,58920,Low
+10028,Manhattan,Upper East Side,165280,6.2,48920,Very High
+10029,Manhattan,East Harlem,51280,28.9,98450,Low
+10030,Manhattan,Central Harlem,47850,26.8,32180,Low
+10031,Manhattan,Hamilton Heights,45280,29.5,52847,Low
+10032,Manhattan,Washington Heights,46280,25.8,52890,Low
+10033,Manhattan,Washington Heights,41850,23.4,64280,Low
+10034,Manhattan,Inwood,52847,21.8,52384,Low
+10035,Manhattan,East Harlem,42150,23.9,52890,Low
+10036,Manhattan,Midtown West/Times Square,82450,15.8,8920,Medium
+10037,Manhattan,Central Harlem,38920,21.6,18750,Low
+10038,Manhattan,Financial District/Chinatown,68920,16.7,28580,Medium
+10039,Manhattan,Central Harlem,41250,28.4,38920,Low
+10040,Manhattan,Washington Heights,43920,24.6,38450,Low
+10065,Manhattan,Upper East Side,160938,6.8,32150,Very High
+10069,Manhattan,Lincoln Square,226151,5.2,12580,Very High
+10075,Manhattan,Upper East Side,146556,7.9,28580,Very High
+10128,Manhattan,Upper East Side/Yorkville,142350,8.5,52340,Very High
+10280,Manhattan,Battery Park City,178920,5.5,15280,Very High
+10282,Manhattan,Battery Park City,195840,4.8,12850,Very High
+10301,Staten Island,St. George/Tompkinsville,62840,16.9,42850,Medium
+10302,Staten Island,Port Richmond,89450,9.8,28920,High
+10303,Staten Island,Port Richmond/Mariners Harbor,68420,15.7,38450,Medium
+10304,Staten Island,Stapleton/Clifton,72850,14.3,58920,Medium
+10305,Staten Island,South Beach/Dongan Hills,82450,8.9,42850,High
+10306,Staten Island,New Dorp/Oakwood,95280,7.2,68920,High
+10307,Staten Island,Tottenville,102580,6.8,38450,High
+10308,Staten Island,Great Kills,118250,5.9,28580,Very High
+10309,Staten Island,Pleasant Plains,108920,7.4,32150,High
+10310,Staten Island,West Brighton,52340,22.8,32580,Low
+10312,Staten Island,Eltingville/Annadale,85680,8.1,78920,High
+10314,Staten Island,Castleton Corners,92580,8.4,125680,High
+10451,Bronx,Mott Haven/Melrose,27450,36.7,46850,Very Low
+10452,Bronx,Highbridge/Concourse,25680,38.5,73850,Very Low
+10453,Bronx,Morris Heights,28950,35.2,77580,Very Low
+10454,Bronx,Mott Haven/Port Morris,28120,35.9,35280,Very Low
+10455,Bronx,Melrose/Longwood,26730,38.1,39570,Very Low
+10456,Bronx,Morrisania,24930,39.2,89420,Very Low
+10457,Bronx,Tremont/Mount Hope,26840,37.8,85290,Very Low
+10458,Bronx,Fordham/Belmont,32580,32.1,82350,Very Low
+10459,Bronx,Longwood/Hunts Point,29480,34.8,44890,Very Low
+10460,Bronx,West Farms/Crotona Park,31250,33.5,52840,Very Low
+10461,Bronx,Westchester Square/Throggs Neck,52340,14.8,51280,Low
+10462,Bronx,Parkchester/Soundview,38750,23.4,88920,Low
+10463,Bronx,Kingsbridge/Riverdale,64250,8.5,86580,Medium
+10464,Bronx,City Island,78450,6.2,4850,High
+10465,Bronx,Throgs Neck/Country Club,67890,9.7,28450,Medium
+10466,Bronx,Wakefield/Williamsbridge,48320,15.2,73280,Low
+10467,Bronx,Fordham/Norwood,35670,28.9,98450,Very Low
+10468,Bronx,Fordham Manor/Kingsbridge,33420,31.5,105680,Very Low
+10469,Bronx,Baychester/Co-op City,52840,17.8,79450,Low
+10470,Bronx,Wakefield,55680,14.6,18920,Low
+10471,Bronx,Riverdale,78940,9.2,22350,High
+10472,Bronx,Soundview,32150,34.2,72580,Very Low
+10473,Bronx,Clason Point/Harding Park,35840,31.8,68420,Very Low
+10474,Bronx,Hunts Point,28950,35.5,12580,Very Low
+10475,Bronx,Co-op City,54230,16.3,43680,Low
+11201,Brooklyn,Brooklyn Heights/DUMBO,112580,8.9,36290,Very High
+11203,Brooklyn,East Flatbush,52680,21.8,98450,Low
+11204,Brooklyn,Bensonhurst,45680,26.1,102580,Low
+11205,Brooklyn,Fort Greene/Clinton Hill,54230,22.1,42850,Low
+11206,Brooklyn,Williamsburg (South),38920,30.7,95280,Very Low
+11207,Brooklyn,East New York,35280,32.9,118520,Very Low
+11208,Brooklyn,East New York/Cypress Hills,42890,28.7,95280,Very Low
+11209,Brooklyn,Bay Ridge,89750,9.1,37850,High
+11210,Brooklyn,Flatlands,58920,18.4,85680,Medium
+11211,Brooklyn,Williamsburg (North),58420,25.3,96580,Low
+11212,Brooklyn,Brownsville,31250,34.8,82450,Very Low
+11213,Brooklyn,Crown Heights,36780,31.2,92450,Very Low
+11214,Brooklyn,Bensonhurst,62340,16.5,102580,Medium
+11215,Brooklyn,Park Slope/Windsor Terrace,128750,6.4,65280,Very High
+11216,Brooklyn,Bedford-Stuyvesant,42150,26.8,68920,Low
+11217,Brooklyn,Boerum Hill/Gowanus,134250,7.8,25680,Very High
+11218,Brooklyn,Kensington/Borough Park,48920,23.8,87450,Low
+11219,Brooklyn,Borough Park,43280,27.4,134580,Low
+11220,Brooklyn,Sunset Park,47350,24.6,108920,Low
+11221,Brooklyn,Bushwick,45680,26.5,92580,Low
+11222,Brooklyn,Greenpoint,72850,18.7,51240,Medium
+11223,Brooklyn,Gravesend,48920,23.1,82580,Low
+11224,Brooklyn,Coney Island,42150,27.8,59280,Low
+11225,Brooklyn,Crown Heights/Prospect Heights,49850,24.2,78250,Low
+11226,Brooklyn,Flatbush,53420,22.7,105280,Low
+11228,Brooklyn,Dyker Heights,92450,8.7,28950,High
+11229,Brooklyn,Madison/Homecrest,78920,12.9,98450,High
+11230,Brooklyn,Midwood,68420,15.8,72850,Medium
+11231,Brooklyn,Carroll Gardens/Red Hook,89340,12.5,29680,High
+11232,Brooklyn,Sunset Park (Industrial),62480,16.3,39850,Medium
+11233,Brooklyn,Ocean Hill/Stuyvesant Heights,37450,30.5,88750,Very Low
+11234,Brooklyn,Marine Park/Mill Basin,68420,14.7,92450,Medium
+11235,Brooklyn,Brighton Beach/Sheepshead Bay,62840,17.2,125680,Medium
+11236,Brooklyn,Canarsie,64280,15.8,98250,Medium
+11237,Brooklyn,Bushwick/East Williamsburg,48250,24.9,78450,Low
+11238,Brooklyn,Prospect Heights/Park Slope,68920,15.9,32580,Medium
+11239,Brooklyn,Spring Creek/Starrett City,45280,19.8,28450,Low
+11354,Queens,Flushing,68420,15.8,62450,Medium
+11355,Queens,Flushing/Murray Hill,85680,9.3,82580,High
+11356,Queens,College Point,102580,7.8,48920,High
+11357,Queens,Whitestone,118250,6.2,42850,Very High
+11358,Queens,Auburndale/Bayside,125680,5.8,52340,Very High
+11360,Queens,Bayside,128450,5.4,28450,Very High
+11361,Queens,Bayside,92850,8.4,38920,High
+11362,Queens,Little Neck,98420,7.2,32580,High
+11363,Queens,Little Neck/Douglaston,105280,6.9,42850,High
+11364,Queens,Bayside/Oakland Gardens,128920,5.1,38450,Very High
+11365,Queens,Fresh Meadows,89450,8.7,62850,High
+11366,Queens,Fresh Meadows,88920,9.1,45280,High
+11367,Queens,Flushing/Kew Gardens Hills,78450,11.5,52850,High
+11368,Queens,Corona,45280,24.8,92450,Low
+11369,Queens,East Elmhurst,52840,18.9,42150,Low
+11370,Queens,East Elmhurst/Jackson Heights,48920,21.2,12850,Low
+11372,Queens,Jackson Heights/Elmhurst,54280,19.8,28450,Low
+11373,Queens,Elmhurst,62840,16.4,82450,Medium
+11374,Queens,Rego Park,72850,12.8,82450,Medium
+11375,Queens,Forest Hills,85680,9.4,95280,High
+11377,Queens,Woodside,68420,14.2,58920,Medium
+11378,Queens,Maspeth,82450,10.8,42850,High
+11379,Queens,Middle Village,69420,14.2,48920,Medium
+11385,Queens,Ridgewood,62340,16.7,68920,Medium
+11411,Queens,Cambria Heights,72850,13.5,42850,Medium
+11412,Queens,St. Albans/Springfield Gardens,54280,21.5,78920,Low
+11413,Queens,Springfield Gardens,62840,17.8,42150,Medium
+11414,Queens,Howard Beach,69850,13.9,42180,Medium
+11415,Queens,Kew Gardens,68420,15.3,48920,Medium
+11416,Queens,Ozone Park,52340,22.7,68450,Low
+11417,Queens,Ozone Park,72850,14.8,45280,Medium
+11418,Queens,Richmond Hill,78920,12.4,52340,High
+11419,Queens,South Richmond Hill,68450,16.2,82450,Medium
+11420,Queens,South Ozone Park,74280,13.7,48920,Medium
+11421,Queens,Woodhaven,62850,18.9,42150,Medium
+11422,Queens,Rosedale,78920,12.8,28450,High
+11423,Queens,Hollis,68920,15.7,58450,Medium
+11426,Queens,Bellerose,92850,8.9,42580,High
+11427,Queens,Queens Village,98450,9.6,32850,High
+11428,Queens,Queens Village,105280,7.8,22180,High
+11429,Queens,Queens Village,82450,11.2,48920,High
+11432,Queens,Jamaica,49850,24.3,95280,Low
+11433,Queens,Jamaica/Hollis,46280,26.8,42850,Low
+11434,Queens,Jamaica/South Jamaica,72850,14.2,68920,Medium
+11435,Queens,Jamaica/Briarwood,54680,22.1,78450,Low
+11436,Queens,Jamaica/South Jamaica,52340,23.9,62850,Low
+11691,Queens,Far Rockaway,46850,28.4,25680,Low
+11692,Queens,Arverne,51280,25.7,18920,Low
+11693,Queens,Far Rockaway,54680,22.9,22450,Low
+11694,Queens,Rockaway Park,68420,16.8,18250,Medium
+11695,Queens,Rockaway Peninsula,72850,15.4,12580,Medium
+11697,Queens,Breezy Point,89450,8.2,8920,High
